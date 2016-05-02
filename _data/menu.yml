@@ -1,5 +1,10 @@
-- title: "About"
+- title: "About Us"
   href: "/NEHSI/about/"
+  subcategories:
+    - subtitle: "The Project"
+      subhref: "/NEHSI/about/Project"
+    - subtitle: "Mission Objectives"
+      subhref: "/NEHSI/about/Objectives"
 
 - title: "Blog"
   href: "/NEHSI/blog/"
