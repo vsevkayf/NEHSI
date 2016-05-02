@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Project
-permalink: /about/project/
+permalink: /about/Project/
 ---
 
 {% include image.html url="/NEHSI/images/octojekyll.png" caption="Octojekyll." width=300 align="right" %}
