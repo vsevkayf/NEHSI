@@ -10,8 +10,7 @@ permalink: /about/
 Work of the Organization:**
 
 The
-**Negev Environmental Health and Sustainability** **Institute
-****(**_**NEHSI**_**)**
+**Negev Environmental Health and Sustainability** **Institute** **(**_**NEHSI**_**)**
 is the home of a dynamic, multidisciplinary, independent team working
 on the interfaces between environment and well-being. The NEHSI team
 includes inter disciplinary researchers: clinicians,
