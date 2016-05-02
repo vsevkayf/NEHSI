@@ -8,14 +8,3 @@
 
 - title: "Blog"
   href: "/NEHSI/blog/"
-
-- title: "CV"
-  href: "/NEHSI/cv/"
-
-- title: "Miscellany"
-  href: "/NEHSI/miscellany/"
-  subcategories:
-    - subtitle: "Item 1"
-      subhref: "/NEHSI/miscellany/item-1/"
-    - subtitle: "Item 2"
-      subhref: "/NEHSI/miscellany/item-2/"
