@@ -6,5 +6,8 @@
     - subtitle: "Mission Objectives"
       subhref: "/NEHSI/about/Objectives"
 
-- title: "Blog"
-  href: "/NEHSI/blog/"
+- title: "Environmental studies"
+  href: "/NEHSI/envstd/"
+  
+- title: "Media"
+  href: "/NEHSI/media/"
