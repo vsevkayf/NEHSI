@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Environmental studies
-permalink: /envstd/
+permalink: /EnvironmentalStudies/
 ---
 
 {% include image.html url="/NEHSI/images/octojekyll.png" caption="Octojekyll." width=300 align="right" %}
