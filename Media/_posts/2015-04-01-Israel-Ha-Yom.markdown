@@ -7,3 +7,7 @@ categories: Media
 You can also [download the PDF here](http://vsevkayf.github.io/NEHSI/docs/IsraelAyom.pdf).
 
 {% include embedpdf.html code="http://vsevkayf.github.io/NEHSI/docs/IsraelAyom.pdf" width=100 height=800 %}
+
+You can also [download the IMG here](http://vsevkayf.github.io/NEHSI/docs/stroke.jpg).
+
+{% include embedpdf.html code="http://vsevkayf.github.io/NEHSI/docs/stroke.jpg" width=100 height=800 %}
