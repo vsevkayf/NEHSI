@@ -1,13 +1,13 @@
 - title: "About Us"
-  href: "/NEHSI/about/"
+  href: "/about/"
   subcategories:
     - subtitle: "The Project"
-      subhref: "/NEHSI/about/Project"
+      subhref: "/about/Project"
     - subtitle: "Mission Objectives"
-      subhref: "/NEHSI/about/Objectives"
+      subhref: "/about/Objectives"
 
 - title: "Environmental studies"
-  href: "/NEHSI/EnvironmentalStudies/"
+  href: "/EnvironmentalStudies/"
   
 - title: "Media"
-  href: "/NEHSI/media/"
+  href: "/media/"
