@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Beersheba dust storms a matter of life and breath!"
+title:  "בימים כאלה הכי טוב בבית - ישראל היום"
 date:   2015-04-01 17:45:27
 categories: Media
 ---
