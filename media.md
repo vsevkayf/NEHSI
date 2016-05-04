@@ -3,7 +3,7 @@ layout: page
 title: Media
 permalink: /media/
 ---
-1  
+
 Under construction.  
 Environmental Health and Sustainability News:
 
