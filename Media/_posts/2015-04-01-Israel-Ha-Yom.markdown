@@ -10,5 +10,5 @@ You can also [download the PDF here](http://vsevkayf.github.io/NEHSI/docs/Israel
 
 You can also [download the IMG here](http://vsevkayf.github.io/NEHSI/docs/days.jpg).
 
-{% include image.html url="http://vsevkayf.github.io/NEHSI/docs/days.jpg" caption="Israel HaYom." width=100 align="center" %}
+{% include image.html url="http://vsevkayf.github.io/NEHSI/docs/days.jpg" caption="Israel HaYom." width=400 align="center" %}
 
