@@ -3,12 +3,12 @@ layout: page
 title: Media
 permalink: /media/
 ---
-1
+1  
 Under construction.  
 Environmental Health and Sustainability News:
 
 <ul class="listing">
-{% for post in site.post %}
+{% for post in site.posts %}
   {% if post.categories contains 'Media' %}
     {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
     {% if year != y %}
@@ -19,7 +19,7 @@ Environmental Health and Sustainability News:
       <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
       <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
     </li>
-  {% endfor %}
+  {% endif %}
 {% endfor %}
 </ul>
 
