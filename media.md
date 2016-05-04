@@ -4,7 +4,6 @@ title: Media
 permalink: /media/
 ---
 
-Under construction.  
 Environmental Health and Sustainability News:
 
 <ul class="listing">
