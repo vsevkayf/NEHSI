@@ -3,6 +3,7 @@ layout: page
 title: Media
 permalink: /media/
 ---
+Articles:
 
 <ul class="listing">
 {% for post in site.articles %}
