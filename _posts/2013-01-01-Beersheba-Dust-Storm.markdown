@@ -6,4 +6,4 @@ categories: Media
 ---
 You can also [download the PDF here](http://vsevkayf.github.io/NEHSI/docs/BeershebaDustStorms.pdf).
 
-{% include embedpdf.html code="https://drive.google.com/uc?export=download&id=0B-GwJxApq7FHaHNRZGlmcVRzU2c" width=100 height=800 %}
+{% include embedpdf.html code="http://vsevkayf.github.io/NEHSI/docs/BeershebaDustStorms.pdf" width=100 height=800 %}
