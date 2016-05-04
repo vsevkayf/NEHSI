@@ -4,8 +4,6 @@ title: Media
 permalink: /media/
 ---
 
-Tell us about your blog. Hopefully it's cool.
-
 <ul class="listing">
 {% for post in site.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
