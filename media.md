@@ -3,8 +3,8 @@ layout: page
 title: Media
 permalink: /media/
 ---
-
-Under construction. <3
+1
+Under construction.  
 Environmental Health and Sustainability News:
 
 <ul class="listing">
