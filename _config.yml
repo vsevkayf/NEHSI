@@ -1,9 +1,8 @@
 # Site settings
 title: Negev Environmental Health and Sustainability Institute
-email: your-email@domain.com
+email: RuthieB@clalit.org.il
 description: > # this means to ignore newlines until "baseurl:"
-  Negev Environmental Health and Sustainability Institute website.
-  We're AWESOME!!!
+  P.O.Box 151 Be'er Sheva, 84101 Israel.
 baseurl: "/NEHSI" # the subpath of your site, e.g. /blog/
 url: "http://vsevkayf.github.io" # the base hostname & protocol for your site
 twitter_username: 
