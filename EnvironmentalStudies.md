@@ -37,8 +37,8 @@ this is a retrospective population based study. The objectives of the study are:
 	  1. To assess the impact of seasonal and meteorological factors on frequency of headache associated Emergency	department (ED) consults.
 	  2. To assess the impact of air pollution factors on the frequency of headache associated ED consults.  
 
-`Vodonos, Alina, et al.`  
-_"Ambient air pollution, weather and daily emergency department visits for headache." Cephalalgia (2015): 0333102415570300._  
+	`Vodonos, Alina, et al.`  
+	_"Ambient air pollution, weather and daily emergency department visits for headache." Cephalalgia (2015): 0333102415570300._  
 
 6. **Prevalence	and Geographical Clustering of Parkinson's disease (PD) in Southern Israel:**  
 in this study we used the refined drug- driven algorithm to assess PD patients at three accuracy levels – definite, probable and possible, based on medications purchases in the last decade. We estimated the prevalence and incidence of PD in the Negev population over the past decade and to identify geographical clustering of PD patients.  
