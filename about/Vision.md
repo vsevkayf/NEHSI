@@ -4,7 +4,7 @@ title: Vision
 permalink: /about/Vision/
 ---
 
-{% include image.html url="/NEHSI/images/octojekyll.png" caption="Octojekyll." width=300 align="right" %}
+{% include image.html url="/NEHSI/images/bridge-1082117_640.jpg" caption="." width=300 align="right" %}
 
 In
 recent years the Negev region has been subjected to rapid, on-going
