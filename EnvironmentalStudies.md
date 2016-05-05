@@ -15,9 +15,9 @@ analyzed:
 
 1. **Non-anthropogenic Dust exposure and Asthma medication purchase in Children**:  
 we assessed the impact of dust storms on asthma/wheezing hospitalizations and asthma medications utilization.  
-
-**Yitshak-Sade, M., Novack, V., Katra, I., Gorodischer, R., Tal, A., & Novack, L. (2014).  
-Non-anthropogenic dust exposure and asthma medication purchase in children.** **European Respiratory Journal, erj00786-2014.‏**  
+*Yitshak-Sade, M., Novack, V., Katra, I., Gorodischer, R., Tal, A., & Novack, L.*  
+_(2014)._  
+_Non-anthropogenic dust exposure and asthma medication purchase in children. European Respiratory Journal, erj00786-2014._  
 
 1. **Can
 	Air Pollution Trigger an Onset of Atrial Fibrillation (AF): a
