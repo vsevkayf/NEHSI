@@ -39,13 +39,13 @@ function init() {
   var slide = new Slide(width, height, 'out');
 	var l1 = new THREE.ImageLoader();
 	l1.setCrossOrigin('Anonymous');
-  slide.setImage(l1.load('https://s3-us-west-2.amazonaws.com/s.cdpn.io/175711/winter.jpg'));
+  slide.setImage(l1.load('http://vsevkayf.github.io/NEHSI/images/B7Dust.png'));
   root.scene.add(slide);
 
   var slide2 = new Slide(width, height, 'in');
   var l2 = new THREE.ImageLoader();
 	l2.setCrossOrigin('Anonymous');
-	slide2.setImage(l2.load('https://s3-us-west-2.amazonaws.com/s.cdpn.io/175711/spring.jpg'));
+	slide2.setImage(l2.load('http://vsevkayf.github.io/NEHSI/images/B7BEACH.png'));
   root.scene.add(slide2);
 
   var tl = new TimelineMax({repeat:-1, repeatDelay:1.0, yoyo: true});
