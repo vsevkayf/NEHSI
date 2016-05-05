@@ -1,13 +1,10 @@
 ---
 layout: page
-title: About
+title: About The Center
 permalink: /about/
 ---
 
 {% include image.html url="/NEHSI/images/octojekyll.png" caption="Octojekyll." width=300 align="right" %}
-
-**The
-Work of the Organization:**
 
 The
 **Negev Environmental Health and Sustainability** **Institute** **(**_**NEHSI**_**)**
