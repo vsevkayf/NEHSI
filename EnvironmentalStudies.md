@@ -16,27 +16,16 @@ _Non-anthropogenic dust exposure and asthma medication purchase in children. Eur
 
 1. **Can Air Pollution Trigger an Onset of Atrial Fibrillation (AF): a Population Based study:**  
 we performed a case-crossover analysis to assess the effect of air pollution on AF, on population of the patients hospitalized in	Soroka between 2006 and 2010 with first occurrence of the arrhythmia.  
-'Sade, M. Y., Vodonos, A., Novack, V., Friger, M., Amit, G., Katra, I., Novack, L..'  
-(2014).  
-Can air pollution trigger an onset of atrial fibrillation: a population-based study.**** **_**Air Quality, Atmosphere & Health**_**, 1-8.‏**  
+`Sade, M. Y., Vodonos, A., Novack, V., Friger, M., Amit, G., Katra, I., Novack, L..`  
+_(2014).  
+Can air pollution trigger an onset of atrial fibrillation: a population-based study. Air Quality, Atmosphere & Health, 1-8._  
 
-1. **The
-	impact of chronic and acute exposure to soil derived airborne
-	particles on chronic obstructive pulmonary disease, asthma and
-	ischemic heart disease in space and time in the northern Negev:**
-	A two phases study (retrospective and prospective) exploring the
-	impact of chronic and acute exposure to Soil Derived Airborne
-	Particles (SADP)  on Chronic Obstructive Pulmonary Disease (COPD) ,
-	asthma and Ischemic Heart Disease (IHT) in space and time in the
-	Northern Negev. The study includes: 
-
-**Vodonos,
-A., Friger, M., Katra, I., Avnon, L., Krasnov, H., Koutrakis, P., ...
-& Novack, V. (2014). The impact of desert dust exposures on
-hospitalizations due to exacerbation of chronic obstructive pulmonary
-disease.** **Air
-Quality, Atmosphere & Health,** **7(4),
-433-439.‏**
+1. **The impact of chronic and acute exposure to soil derived airborne	particles on chronic obstructive pulmonary disease, asthma and ischemic heart disease in space and time in the northern Negev:**  
+A two phases study (retrospective and prospective) exploring the impact of chronic and acute exposure to Soil Derived Airborne Particles (SADP)  on Chronic Obstructive Pulmonary Disease (COPD), asthma and Ischemic Heart Disease (IHT) in space and time in the Northern Negev. The study includes:  
+`Vodonos, A., Friger, M., Katra, I., Avnon, L., Krasnov, H., Koutrakis, P., Novack, V..`  
+_(2014).  
+The impact of desert dust exposures on hospitalizations due to exacerbation of chronic obstructive pulmonary disease. Air
+Quality, Atmosphere & Health, 7(4), 433-439._  
 
 1. **Effect
 	of interaction between dust exposure, meteorological parameters and
