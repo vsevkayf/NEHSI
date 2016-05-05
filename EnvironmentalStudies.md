@@ -6,16 +6,11 @@ permalink: /EnvironmentalStudies/
 
 {% include image.html url="/NEHSI/images/octojekyll.png" caption="." width=300 align="right" %}
 
-Our
-studies aim to extend the understanding on the associations of air
-pollution and health outcomes. This is a partial list of our
-environmental studies. Some were already published in clinical and
-environmental journals, and some are currently being conducted or
-analyzed:  
+Our studies aim to extend the understanding on the associations of air pollution and health outcomes. This is a partial list of our environmental studies. Some were already published in clinical and environmental journals, and some are currently being conducted or analyzed:  
 
 1. **Non-anthropogenic Dust exposure and Asthma medication purchase in Children**:  
 we assessed the impact of dust storms on asthma/wheezing hospitalizations and asthma medications utilization.  
-*Yitshak-Sade, M., Novack, V., Katra, I., Gorodischer, R., Tal, A., & Novack, L.*  
+`Yitshak-Sade, M., Novack, V., Katra, I., Gorodischer, R., Tal, A., & Novack, L.`  
 _(2014)._  
 _Non-anthropogenic dust exposure and asthma medication purchase in children. European Respiratory Journal, erj00786-2014._  
 
