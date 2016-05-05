@@ -6,9 +6,6 @@ permalink: /about/Vision/
 
 {% include image.html url="/NEHSI/images/octojekyll.png" caption="Octojekyll." width=300 align="right" %}
 
-**Short
-Description of the Project:**
-
 In
 recent years the Negev region has been subjected to rapid, on-going
 changes including high intensity urban development and population
