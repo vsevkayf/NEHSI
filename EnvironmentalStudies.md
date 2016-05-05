@@ -14,20 +14,11 @@ we assessed the impact of dust storms on asthma/wheezing hospitalizations and as
 _(2014)._  
 _Non-anthropogenic dust exposure and asthma medication purchase in children. European Respiratory Journal, erj00786-2014._  
 
-1. **Can
-	Air Pollution Trigger an Onset of Atrial Fibrillation (AF): a
-	Population Based study: w**e
-	performed a case-crossover analysis to assess the effect of air
-	pollution on AF, on population of the patients hospitalized in
-	Soroka between 2006 and 2010 with first occurrence of the
-	arrhythmia.  
-
-**Sade,
-M. Y., Vodonos, A., Novack, V., Friger, M., Amit, G., Katra, I., ...
-& Novack, L. (2014). Can air pollution trigger an onset of atrial
-fibrillation: a population-based study.**** **_**Air
-Quality, Atmosphere & Health**_**,
-1-8.‏**
+1. **Can Air Pollution Trigger an Onset of Atrial Fibrillation (AF): a Population Based study:**  
+we performed a case-crossover analysis to assess the effect of air pollution on AF, on population of the patients hospitalized in	Soroka between 2006 and 2010 with first occurrence of the arrhythmia.  
+'Sade, M. Y., Vodonos, A., Novack, V., Friger, M., Amit, G., Katra, I., Novack, L..'  
+(2014).  
+Can air pollution trigger an onset of atrial fibrillation: a population-based study.**** **_**Air Quality, Atmosphere & Health**_**, 1-8.‏**  
 
 1. **The
 	impact of chronic and acute exposure to soil derived airborne
