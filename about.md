@@ -4,7 +4,7 @@ title: About The Center
 permalink: /about/
 ---
 
-{% include image.html url="/NEHSI/images/octojekyll.png" caption="Octojekyll." width=300 align="right" %}
+{% include image.html url="/NEHSI/images/nature-213364_640.jpg" width=300 align="right" %}
 
 The
 **Negev Environmental Health and Sustainability** **Institute** **(**_**NEHSI**_**)**
