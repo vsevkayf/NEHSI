@@ -2,22 +2,47 @@
   href: "/about/"
   subcategories:
     - subtitle: "Vision"
-      subhref: "/about/Vision"
+      subhref: "/about/Vision/"
     - subtitle: "Mission Objectives"
-      subhref: "/about/Objectives"
+      subhref: "/about/Objectives/"
 
-- title: "Environmental studies"
-  href: "/EnvironmentalStudies/"
-  
-- title: "Media"
-  href: "/media/"
+- title: "Member Resources"
+  href: "/MemberResources/"
+  subcategories:
+    - subtitle: "Team"
+      subhref: "/Team/"
+    - subtitle: "Collaborations"
+      subhref: "/Collaborations/"
 
-- title: "Blog"
-  href: "/blog/"
+- title: "Projects"
+  href: "/Projects/"
+  subcategories:
+    - subtitle: "Current Projects"
+      subhref: "/CurrentProjects/"
+    - subtitle: "Future Projects"
+      subhref: "/FutureProjects/"
 
+- title: "Publications"
+  href: "/Publications/"
+  subcategories:
+    - subtitle: "Scientific Papers"
+      subhref: "/ScientificPapers/"
+    - subtitle: "Media"
+      subhref: "/media/"
+ 
+- title: "Community Outreach"
+  href: "/CommunityOutreach/"
+  subcategories:
+    - subtitle: "Newsletter"
+      subhref: "/Newsletter/"
+    - subtitle: "Blog"
+      subhref: "/blog/"
+    - subtitle: "Map"
+      subhref: "/Map/"
+    - subtitle: "Environment assessment in the Negev Area"
+      subhref: "/EnvironmentAssessmentInTheNegevArea/"
+    - subtitle: "Events"
+      subhref: "/Events/"
 
-Member Resources
-Projects
-Publications
-Community Outreach
-Contact us
+- title: "Contact us"
+  href: "/contactUs/"
