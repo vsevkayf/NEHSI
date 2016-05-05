@@ -14,48 +14,38 @@ we assessed the impact of dust storms on asthma/wheezing hospitalizations and as
 _(2014)._  
 _Non-anthropogenic dust exposure and asthma medication purchase in children. European Respiratory Journal, erj00786-2014._  
 
-1. **Can Air Pollution Trigger an Onset of Atrial Fibrillation (AF): a Population Based study:**  
+2. **Can Air Pollution Trigger an Onset of Atrial Fibrillation (AF): a Population Based study:**  
 we performed a case-crossover analysis to assess the effect of air pollution on AF, on population of the patients hospitalized in	Soroka between 2006 and 2010 with first occurrence of the arrhythmia.  
 `Sade, M. Y., Vodonos, A., Novack, V., Friger, M., Amit, G., Katra, I., Novack, L..`  
 _(2014).  
 Can air pollution trigger an onset of atrial fibrillation: a population-based study. Air Quality, Atmosphere & Health, 1-8._  
 
-1. **The impact of chronic and acute exposure to soil derived airborne	particles on chronic obstructive pulmonary disease, asthma and ischemic heart disease in space and time in the northern Negev:**  
+3. **The impact of chronic and acute exposure to soil derived airborne	particles on chronic obstructive pulmonary disease, asthma and ischemic heart disease in space and time in the northern Negev:**  
 A two phases study (retrospective and prospective) exploring the impact of chronic and acute exposure to Soil Derived Airborne Particles (SADP)  on Chronic Obstructive Pulmonary Disease (COPD), asthma and Ischemic Heart Disease (IHT) in space and time in the Northern Negev. The study includes:  
 `Vodonos, A., Friger, M., Katra, I., Avnon, L., Krasnov, H., Koutrakis, P., Novack, V..`  
 _(2014).  
 The impact of desert dust exposures on hospitalizations due to exacerbation of chronic obstructive pulmonary disease. Air
 Quality, Atmosphere & Health, 7(4), 433-439._  
 
-1. **Effect of interaction between dust exposure, meteorological parameters and	individual health characteristics on respiratory and cardiovascular morbidity:**  
+4. **Effect of interaction between dust exposure, meteorological parameters and	individual health characteristics on respiratory and cardiovascular morbidity:**  
 The primary objective of the research is to assess the effect of interaction between dust exposure with meteorological parameters and individual health characteristics (co morbidities, demographics and medications) on respiratory and cardiovascular morbidity.  
 `Vodonos, Alina, et al.`  
 _"Individual Effect Modifiers of Dust Exposure Effect on Cardiovascular Morbidity." PloS one 10.9 (2015): e0137714._  
 
-1. **Ambient air pollution, weather and daily emergency visits for headache in Southern Israel**:  
+5. **Ambient air pollution, weather and daily emergency visits for headache in Southern Israel**:  
 this is a retrospective population based study. The objectives of the study are:
   1. To assess the impact of seasonal and meteorological factors on frequency of headache associated Emergency	department (ED) consults.
   2. To assess the impact of air pollution factors on the frequency of headache associated ED consults.  
 `Vodonos, Alina, et al.`  
 _"Ambient air pollution, weather and daily emergency department visits for headache." Cephalalgia (2015): 0333102415570300._  
 
-1. []()**Prevalence
-	and Geographical Clustering of Parkinson's disease (PD) in Southern
-	Israel: **in
-	this study we used the refined drug- driven algorithm to assess PD
-	patients at three accuracy levels – definite, probable and
-	possible, based on medications purchases in the last decade.
-	We estimated
-	the prevalence and incidence of PD in the Negev population over the
-	past decade and to identify geographical clustering of PD patients.  
+6. **Prevalence	and Geographical Clustering of Parkinson's disease (PD) in Southern Israel:**  
+in this study we used the refined drug- driven algorithm to assess PD patients at three accuracy levels – definite, probable and possible, based on medications purchases in the last decade. We estimated the prevalence and incidence of PD in the Negev population over the past decade and to identify geographical clustering of PD patients.  
+`Yitshak Sade, M., Zlotnik, Y., Kloog, I., Novack, V., Peretz, C., Ifergane, G..`  
+_(2015).  
+Parkinson’s Disease Prevalence and Proximity to Agricultural Cultivated Fields. Parkinson’s Disease, 2015._  
 
-**Yitshak
-Sade, M., Zlotnik, Y., Kloog, I., Novack, V., Peretz, C., &
-Ifergane, G. (2015). Parkinson’s Disease Prevalence and Proximity
-to Agricultural Cultivated Fields.**** ****Parkinson’s
-Disease,**** ****2015.‏**
-
-1. **Air
+7. **Air
 	pollution effect on cardiovascular risk factors and diseases-
 	spatial and temporal associations in hot climate**:
 	This study include all adult subjects residing in Southern Israel
