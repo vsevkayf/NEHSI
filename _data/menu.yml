@@ -1,8 +1,8 @@
-- title: "About Us"
+- title: "About The Center"
   href: "/about/"
   subcategories:
-    - subtitle: "The Project"
-      subhref: "/about/Project"
+    - subtitle: "Vision"
+      subhref: "/about/Vision"
     - subtitle: "Mission Objectives"
       subhref: "/about/Objectives"
 
@@ -14,3 +14,10 @@
 
 - title: "Blog"
   href: "/blog/"
+
+
+Member Resources
+Projects
+Publications
+Community Outreach
+Contact us
