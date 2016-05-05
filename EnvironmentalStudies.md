@@ -27,34 +27,17 @@ _(2014).
 The impact of desert dust exposures on hospitalizations due to exacerbation of chronic obstructive pulmonary disease. Air
 Quality, Atmosphere & Health, 7(4), 433-439._  
 
-1. **Effect
-	of interaction between dust exposure, meteorological parameters and
-	individual health characteristics on respiratory and cardiovascular
-	morbidity:**
-	The primary objective of the research is to assess the effect of
-	interaction between dust exposure with meteorological parameters and
-	individual health characteristics (co morbidities, demographics and
-	medications) on respiratory and cardiovascular morbidity. 
+1. **Effect of interaction between dust exposure, meteorological parameters and	individual health characteristics on respiratory and cardiovascular morbidity:**  
+The primary objective of the research is to assess the effect of interaction between dust exposure with meteorological parameters and individual health characteristics (co morbidities, demographics and medications) on respiratory and cardiovascular morbidity.  
+`Vodonos, Alina, et al.`  
+_"Individual Effect Modifiers of Dust Exposure Effect on Cardiovascular Morbidity." PloS one 10.9 (2015): e0137714._  
 
-**Vodonos,
-Alina, et al. "Individual Effect Modifiers of Dust Exposure
-Effect on Cardiovascular Morbidity."**** ****PloS
-one**** ****10.9
-(2015): e0137714.‏**
-
-1. **Ambient
-	air pollution, weather and daily emergency visits for headache in
-	Southern Israel**:
-	this is a retrospective population based study. The objectives of
-	the study are: 1) To assess the impact of seasonal and
-	meteorological factors on frequency of headache associated Emergency
-	department (ED) consults.2)To assess the impact of air pollution
-	factors on the frequency of headache associated ED consults. 
-
-**Vodonos,
-Alina, et al. "Ambient air pollution, weather and daily
-emergency department visits for headache."**** ****Cephalalgia**** ****(2015):
-0333102415570300.‏**
+1. **Ambient air pollution, weather and daily emergency visits for headache in Southern Israel**:  
+this is a retrospective population based study. The objectives of the study are:  
+  1. To assess the impact of seasonal and meteorological factors on frequency of headache associated Emergency	department (ED) consults.
+  2. To assess the impact of air pollution factors on the frequency of headache associated ED consults.  
+`Vodonos, Alina, et al.`  
+_"Ambient air pollution, weather and daily emergency department visits for headache." Cephalalgia (2015): 0333102415570300._  
 
 1. []()**Prevalence
 	and Geographical Clustering of Parkinson's disease (PD) in Southern
