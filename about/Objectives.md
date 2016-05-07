@@ -28,8 +28,7 @@ awareness to the environment and facilitate creative patterns of
 health promotion activities via youth organizations and elderly
 clubs.
 
-**Specifically,
-we will:**
+**We strive to **
 
 - Develop
 	a comprehensive, robust and validated approach to environmental
