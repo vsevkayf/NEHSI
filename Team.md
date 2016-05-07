@@ -9,7 +9,7 @@ Spatial and Exposure  assessment unit | | Environmental Health unit | | Health P
 :---: | :---: | :---: | :---: | :---:
 [Dan Blumberg]({{ site.baseurl }}/blumberg) | | [Victor Novack]({{ site.baseurl }}/victor) | | Nadav Davidovitch
 Itai Kloog | | Batia Sarov | | Meidad Kissinger
-Itzhka Katra | | Nadav Davidovitch | | Batia Sarov
+[Itzhka Katra]({{ site.baseurl }}/katra) | | Nadav Davidovitch | | Batia Sarov
 Meidad Kissinger | | Lena Novack | | Isabella Karakis
  | | Isabella Karakis | | 
  | | Maayan  Yitshak-Sade | | 
