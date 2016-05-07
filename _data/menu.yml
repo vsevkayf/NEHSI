@@ -27,14 +27,14 @@
   subcategories:
     - subtitle: "Scientific Papers"
       subhref: "/ScientificPapers/"
-    - subtitle: "Media"
-      subhref: "/media/"
- 
+
 - title: "Community Outreach"
   href: "/CommunityOutreach/"
   subcategories:
     - subtitle: "Newsletter"
       subhref: "/Newsletter/"
+    - subtitle: "Media"
+      subhref: "/media/"
     - subtitle: "Blog"
       subhref: "/blog/"
     - subtitle: "Map"
