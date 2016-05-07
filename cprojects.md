@@ -3,7 +3,7 @@ layout: page
 title: Current Projects
 permalink: /cprojects/
 ---
-<center><img src="http://vsevkayf.github.io/NEHSI/images/sandstorm-165332_640.jpg" style="width:100%"></center>
+{% include image.html url="/NEHSI/images/sandstorm-165332_640.jpg" width=300 align="right" %}
 
  * The impact of chronic and acute exposure to soil derived airborne particles on chronic obstructive pulmonary disease, asthma and ischemic heart disease in space and time in the northern Negev:  
  Association between environmental and meteorological factors with patients' admission to psychiatric ER in Southern Israel  
