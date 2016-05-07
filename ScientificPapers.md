@@ -4,7 +4,7 @@ title: Scientific Papers
 permalink: /ScientificPapers/
 ---
 
-{% include image.html url="/NEHSI/images/octojekyll.png" caption="." width=300 align="right" %}
+{% include image.html url="/NEHSI/images/kairo-918804_640.jpg" width=300 align="right" %}
 
 Our studies aim to extend the understanding on the associations of air pollution and health outcomes. This is a partial list of our environmental studies. Some were already published in clinical and environmental journals, and some are currently being conducted or analyzed:  
 
