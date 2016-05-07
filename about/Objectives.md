@@ -4,6 +4,8 @@ title: Mission Objectives
 permalink: /about/Objectives/
 ---
 
+{% include image.html url="/NEHSI/images/agriculture-1359862_640.jpg" width=300 align="right" %}
+
 []()
 
 **Our
