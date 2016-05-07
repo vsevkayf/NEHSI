@@ -7,10 +7,13 @@ Our team comprises epidemiologists, physicians, geographers, health policy speci
 
 Spatial and Exposure  assessment unit | | Environmental Health unit | | Health Promotion and Community outreach unit
 :---: | :---: | :---: | :---: | :---:
-Dan Blumberg | | Victor Novack | | Nadav Davidovitch
+[Dan Blumberg]({{ site.baseurl }}/blumberg) | | [Victor Novack]({{ site.baseurl }}/victor) | | Nadav Davidovitch
 Itai Kloog | | Batia Sarov | | Meidad Kissinger
 Itzhka Katra | | Nadav Davidovitch | | Batia Sarov
 Meidad Kissinger | | Lena Novack | | Isabella Karakis
  | | Isabella Karakis | | 
  | | Maayan  Yitshak-Sade | | 
  | | Alina Vodonos Zilberg | | 
+
+
+
