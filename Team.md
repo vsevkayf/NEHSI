@@ -17,4 +17,4 @@ Meidad Kissinger | | Lena Novack | | Isabella Karakis
 
 
 
-{% include image.html url="/NEHSI/images/airplane-465619_640.jpg" width=300 align="center" %}
+{% include image.html url="/NEHSI/images/airplane-465619_640.jpg" width="100%" align="center" %}
