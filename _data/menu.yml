@@ -18,7 +18,7 @@
   href: "/Projects/"
   subcategories:
     - subtitle: "Current Projects"
-      subhref: "/CurrentProjects/"
+      subhref: "/cprojects/"
     - subtitle: "Future Projects"
       subhref: "/FutureProjects/"
 
