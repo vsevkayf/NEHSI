@@ -23,26 +23,6 @@ industrial waste, air emissions, human waste, poor living conditions,
 motor vehicle emissions, residential area density and poor living
 conditions.
 
-Unlike
-other regions in Israel (Tel Aviv metropolitan area and Haifa Bay),
-the ability to correctly assess these environmental hazardous
-exposures (for example air pollution) in the Negev area is very
-limited due to lack of environmental monitors.  A broad platform of
-monitoring sites and the development of robust validated exposure
-assessment models is crucial for continuous evaluation of the
-population health and the detection of communities at risk. 
-
-Now,
-more than ever, the use of education as a key tool for the promotion
-of a wider understanding of the potential human health consequences
-of global environmental degradation is essential.  The place and the
-time present a unique opportunity to establish a center of knowledge
-and education in the field of environmental health in the Negev
-region. The unique environmental conditions, the environmental
-changes and the ethnic and cultural diversity of the population make
-the Negev residents an important target population for introducing
-community oriented health education intervention programs aiming to
-improve   quality of life in the region. 
 
 We
 believe that the establishment of the Institute as a central body for
