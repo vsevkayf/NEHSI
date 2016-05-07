@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Environmental studies
-permalink: /EnvironmentalStudies/
+title: Scientific Papers
+permalink: /ScientificPapers/
 ---
 
 {% include image.html url="/NEHSI/images/octojekyll.png" caption="." width=300 align="right" %}
