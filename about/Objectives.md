@@ -4,9 +4,6 @@ title: Mission Objectives
 permalink: /about/Objectives/
 ---
 
-{% include image.html url="/NEHSI/images/archery-782503_640.jpg" caption="" width=300 align="right" %}
-
-
 []()
 
 **Our
