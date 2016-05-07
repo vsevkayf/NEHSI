@@ -15,7 +15,6 @@ Meidad Kissinger | | Lena Novack | | Isabella Karakis
  | | Maayan  Yitshak-Sade | | 
  | | Alina Vodonos Zilberg | | 
 
-
-![alt text](http://vsevkayf.github.io//NEHSI/images/airplane-465619_640.jpg "1")
+<center><img src="http://vsevkayf.github.io//NEHSI/images/airplane-465619_640.jpg"></center>
 
 
