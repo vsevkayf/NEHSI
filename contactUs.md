@@ -4,6 +4,9 @@ title: Contact
 permalink: /contactUs/
 ---
 
+{% include image.html url="/NEHSI/images/sand-138879_640.jpg" width=300 align="right" %}
+
+
 
 <div class="col-sm-6 col-sm-offset-6 col-md-4 col-md-offset-8 form">
 	<form action="https://getsimpleform.com/messages?form_api_token=39dda43c5bb42c646bc0a41d973c9a36" method="post">
