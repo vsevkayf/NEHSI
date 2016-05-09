@@ -4,17 +4,26 @@ title: Team
 permalink: /Team/
 ---
 
-{% include image.html url="/NEHSI/images/airplane-465619_640.jpg" width=300 align="right" %}
-
 Our team comprises epidemiologists, physicians, geographers, health policy specialists from Ben-Gurion University of the Negev, Soroka University Medical Center, and Ministry of Health. 
 
-Spatial and Exposure  assessment unit | | Environmental Health unit | | Health Promotion and Community outreach unit
-:---: | :---: | :---: | :---: | :---:
-[Dan Blumberg]({{ site.baseurl }}/blumberg) | | [Victor Novack]({{ site.baseurl }}/victor) | | Nadav Davidovitch
-Itai Kloog | | Batia Sarov | | Meidad Kissinger
-[Itzhka Katra]({{ site.baseurl }}/katra) | | Nadav Davidovitch | | Batia Sarov
-Meidad Kissinger | | Lena Novack | | Isabella Karakis
- | | Isabella Karakis | | 
- | | Maayan  Yitshak-Sade | | 
- | | Alina Vodonos Zilberg | | 
+ [Dan Blumberg]({{ site.baseurl }}/blumberg)
 
+ Nadav Davidovitch
+
+ Isabella Karakis
+
+ [Itzhka Katra]({{ site.baseurl }}/katra)
+
+ Meidad Kissinger
+
+ Itai Kloog
+
+ [Victor Novack]({{ site.baseurl }}/victor)
+
+ Lena Novack
+
+ Batia Sarov
+
+ Alina Vodonos Zilberg
+
+ Maayan Yitshak-Sade
