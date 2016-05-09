@@ -39,8 +39,8 @@
       subhref: "/blog/"
     - subtitle: "Map"
       subhref: "/Map/"
-    - subtitle: "Environment assessment in the Negev Area"
-      subhref: "/EnvironmentAssessmentInTheNegevArea/"
+    - subtitle: "Environmental Monitoring Reports"
+      subhref: "/EnvironmentalMonitoringReports/"
     - subtitle: "Events"
       subhref: "/Events/"
 
