@@ -8,22 +8,22 @@ Our team comprises epidemiologists, physicians, geographers, health policy speci
 
  [Dan Blumberg]({{ site.baseurl }}/blumberg)
 
- Nadav Davidovitch
+ [Nadav Davidovitch]({{ site.baseurl }}/)
 
- Isabella Karakis
+ [Isabella Karakis]({{ site.baseurl }}/)
 
  [Itzhka Katra]({{ site.baseurl }}/katra)
 
- Meidad Kissinger
+ [Meidad Kissinger]({{ site.baseurl }}/kissinger)
 
- Itai Kloog
+ [Itai Kloog]({{ site.baseurl }}/kloog)
 
  [Victor Novack]({{ site.baseurl }}/victor)
 
- Lena Novack
+ [Lena Novack]({{ site.baseurl }}/lena)
 
- Batia Sarov
+ [Batia Sarov]({{ site.baseurl }}/sarov)
 
- Alina Vodonos Zilberg
+ [Alina Vodonos Zilberg]({{ site.baseurl }}/)
 
- Maayan Yitshak-Sade
+ [Maayan Yitshak-Sade]({{ site.baseurl }}/maayan)
