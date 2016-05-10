@@ -4,7 +4,6 @@ title: About The Center
 permalink: /about/
 ---
 
-{% include image.html url="/NEHSI/images/nature-213364_640.jpg" width=300 align="right" %}
 
 The Negev Environmental Health and Sustainability Institute (NEHSI) is the home of a dynamic, multidisciplinary, independent team working on the interfaces between environment and well-being. The NEHSI team includes inter disciplinary researchers: clinicians, biostatisticians, epidemiologists, exposure scientists, ecologists, urban planners and geomorphologists from the Soroka University Medical Center, Ben Gurion University of the Negev, and the Ministry of Health.
 In the last decade, multiple high impact projects studying the health effects of environmental hazards in Negev residents were promoted by the Institute. We have developed novel tools for the assessment of environmental exposures among the Negev residents (such as air pollution, climate, green space and noise). We have used these newly developed methods to investigate the link between each exposure and the well-being of the Negev residents, with the aim to incorporate the assessment of the environmental hazards into the mainstream medicine. Lastly, we have promoted research activities involving regional development, health education and assessment of environmental quality.
