@@ -4,7 +4,7 @@ title: Team
 permalink: /Team/
 ---
 
-Our team comprises epidemiologists, physicians, geographers, health policy specialists from Ben-Gurion University of the Negev, Soroka University Medical Center, and Ministry of Health. 
+Our team comprises epidemiologists, physicians, geographers, health policy specialists from Ben-Gurion University of the Negev, Soroka University Medical Center, and the Ministry of Health. 
 
  [Dan Blumberg]({{ site.baseurl }}/blumberg)
 
