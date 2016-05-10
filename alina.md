@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Prof. Victor Novack
-permalink: /victor/
+title: Alina Vodonos Zilberg
+permalink: /alina/
 ---
 
 Alina is a PhD Candidate in Department of Public Health in Ben Gurion University of
