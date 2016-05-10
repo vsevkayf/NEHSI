@@ -24,6 +24,6 @@ Our team comprises epidemiologists, physicians, geographers, health policy speci
 
  [Batia Sarov]({{ site.baseurl }}/sarov)
 
- [Alina Vodonos Zilberg]({{ site.baseurl }}/)
+ [Alina Vodonos Zilberg]({{ site.baseurl }}/alina)
 
  [Maayan Yitshak-Sade]({{ site.baseurl }}/maayan)
