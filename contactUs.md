@@ -17,16 +17,16 @@ permalink: /contactUs/
 	float: left;
 	left: 50%;
 	position: absolute;
-  margin-top:30px;
+  	margin-top:30px;
 	margin-left: -260px;
-  -moz-border-radius: 7px;
-  -webkit-border-radius: 7px;
+  	-moz-border-radius: 7px;
+  	-webkit-border-radius: 7px;
 }
 
 .feedback-input {
 	color:#3c3c3c;
 	font-family: Helvetica, Arial, sans-serif;
-  font-weight:500;
+  	font-weight:500;
 	font-size: 18px;
 	border-radius: 0;
 	line-height: 22px;
@@ -38,7 +38,7 @@ permalink: /contactUs/
 	-moz-box-sizing: border-box;
 	-ms-box-sizing: border-box;
 	box-sizing: border-box;
-  border: 3px solid rgba(0,0,0,0);
+  	border: 3px solid rgba(0,0,0,0);
 }
 
 .feedback-input:focus{
@@ -47,7 +47,7 @@ permalink: /contactUs/
 	border: 3px solid #3498db;
 	color: #3498db;
 	outline: none;
-  padding: 13px 13px 13px 54px;
+  	padding: 13px 13px 13px 54px;
 }
 
 .focused{
@@ -67,7 +67,7 @@ permalink: /contactUs/
 	background-image: url(http://vsevkayf.github.io/NEHSI/images/svg/name.svg);
 	background-size: 30px 30px;
 	background-position: 8px 5px;
-  background-position: 11px 8px;
+  	background-position: 11px 8px;
 	background-repeat: no-repeat;
 }
 
@@ -82,7 +82,7 @@ permalink: /contactUs/
 	background-image: url(http://vsevkayf.github.io/NEHSI/images/svg/doc.svg);
 	background-size: 30px 30px;
 	background-position: 8px 5px;
-  background-position: 11px 8px;
+  	background-position: 11px 8px;
 	background-repeat: no-repeat;
 }
 
@@ -97,7 +97,7 @@ permalink: /contactUs/
 	background-image: url(http://vsevkayf.github.io/NEHSI/images/svg/CompanyName.svg);
 	background-size: 30px 30px;
 	background-position: 8px 5px;
-  background-position: 11px 8px;
+  	background-position: 11px 8px;
 	background-repeat: no-repeat;
 }
 
@@ -112,7 +112,7 @@ permalink: /contactUs/
 	background-image: url(http://vsevkayf.github.io/NEHSI/images/svg/Phone.svg);
 	background-size: 30px 30px;
 	background-position: 8px 5px;
-  background-position: 11px 8px;
+  	background-position: 11px 8px;
 	background-repeat: no-repeat;
 }
 
@@ -126,7 +126,7 @@ permalink: /contactUs/
 #email:focus{
 	background-image: url(http://vsevkayf.github.io/NEHSI/images/svg/Email.svg);
 	background-size: 30px 30px;
-  background-position: 11px 8px;
+  	background-position: 11px 8px;
 	background-repeat: no-repeat;
 }
 
@@ -140,7 +140,7 @@ permalink: /contactUs/
 #HAU:focus{
 	background-image: url(http://vsevkayf.github.io/NEHSI/images/svg/planet.svg);
 	background-size: 30px 30px;
-  background-position: 11px 8px;
+  	background-position: 11px 8px;
 	background-repeat: no-repeat;
 }
 
@@ -177,8 +177,8 @@ input:focus, textarea:focus {
 	-webkit-transition: all 0.3s;
 	-moz-transition: all 0.3s;
 	transition: all 0.3s;
-  margin-top:-4px;
-  font-weight:700;
+  	margin-top:-4px;
+	font-weight:700;
 }
 
 #button-blue:hover{
@@ -235,7 +235,7 @@ input:focus, textarea:focus {
 			<input name="phone" type="tel" placeholder="Phone" id="phone" class="validate[required,custom[onlyNumber],length[0,20]] feedback-input" required>
 		</div>
 		<div class="form-field">
-			<input name="email" type="email" placeholder="Email"class="validate[required,custom[email]] feedback-input" id="email" required>
+			<input name="email" type="email" placeholder="Email" class="validate[required,custom[email]] feedback-input" id="email" required>
 		</div>
 		<div class="form-field">
 			<input name="How did you hear about us" type="text" placeholder="How did you hear about us" id="HAU" class="validate[required,length[0,100]] feedback-input" required>
