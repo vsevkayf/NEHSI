@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Prof. Victor Novack
-permalink: /victor/
+title: Dr. Meidad Kissinger
+permalink: /kissinger/
 ---
 
 
