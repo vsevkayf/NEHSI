@@ -5,9 +5,9 @@ permalink: /maayan/
 ---
 
 
-Maayan is the scientific director at the Soroka clinical research center and a PhD
+Mrs. Yitshak-Sade serves as a Chief Scientific Officer at the Soroka clinical research center and currently completeing her
 
-candidate at Ben Gurion University. Maayan&#39;s research focuses on environmental
+doctoral thesis at Ben Gurion University. Maayan&#39;s research focuses on environmental
 
 epidemiology. In her thesis, Maayan is investigating the spatial and temporal
 
