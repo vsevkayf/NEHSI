@@ -4,9 +4,7 @@ title: Prof. Victor Novack
 permalink: /victor/
 ---
 
-Prof. Victor Novack holds a joint appointment with the Faculty of Health Sciences of BGU and the Soroka Medical Center (BGU's affiliated teaching hospital).  He is a Senior Physician with the Dept. of Internal Medicine and the Director of the Clinical Research Center.  
+Victor Novack MD PhD is a founding director of Soroka Clinical Research Center. Prior to his current position, Dr. Novack served as a Medical Director at Harvard Clinical Research Institute. His epidemiology training allows for the bridging a gap between the clinical questions and statistical apparatus. He has designed and contributed to the design of more than 50 feasibility and pivotal trials for FDA approval.  Dr. Novack is Professor of Medicine at Faculty of Health Sciences at Ben-Gurion University, attending in the Division of Medicine at Soroka University Medical Center and Senior Scientist at Beth Israel Deaconess Medical Center, Harvard Medical School. He is an Associate and Statistical Editor of the European Journal of Internal Medicine. He has more than 150 scientific publications in peer reviewed journals. His scientific interests include investigation of the health effects of the air pollution.  
 
-Prof.  Novack serves as a Consultant Medical Director at the Clinical Research Institute of Harvard University, contributing his expertise in the design of prospective clinical trials and epidemiological data analysis.  He is an expert in evidence-based medicine paradigms.  
-Prof. Novack received his M.D. degree in 1997 from the BGU Faculty of Health Sciences and his Ph.D. in 2005 from the BGU Dept. of Epidemiology.  
-At the Harvard Clinical Research Institute, he led and participated in the design of more than 30 pivotal studies designed to culminate in regulatory approval, predominantly in the area of the cardio-vascular devices.  He has strong ties to the Food and Drug Administration (FDA), and in cooperation with the FDA, he participated in the preparation of position papers in area of the peripheral vascular intervention.  
-As an academic researcher and teacher, he has published more than 70 papers and lectured and taught in many different settings. 
+ 
+
