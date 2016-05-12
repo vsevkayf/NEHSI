@@ -6,24 +6,24 @@ permalink: /Team/
 
 Our team comprises epidemiologists, physicians, geographers, health policy specialists from Ben-Gurion University of the Negev, Soroka University Medical Center, and the Ministry of Health. 
 
- [Dan Blumberg]({{ site.baseurl }}/blumberg)
+ [Prof. Dan Blumberg]({{ site.baseurl }}/blumberg) Deputy Vice-President for Research and Development, Ben-Gurion University of the Negev
 
- [Nadav Davidovitch]({{ site.baseurl }}/)
+ [Prof. Nadav Davidovitch]({{ site.baseurl }}/) Head, Department of Health Systems Evaluation and Managment, Faculty of Health Sciences, Ben-Gurion University of the Negev
 
- [Isabella Karakis]({{ site.baseurl }}/)
+ [Dr. Isabella Karakis]({{ site.baseurl }}/) Head, Department of Environmental Epidemiology, Ministry of Health
 
- [Itzhka Katra]({{ site.baseurl }}/katra)
+ [Porf. Itzhka Katra]({{ site.baseurl }}/katra) Dept. of Geography and Environmental Development, Ben-Gurion University of the Negev
 
- [Meidad Kissinger]({{ site.baseurl }}/kissinger)
+ [Prof. Meidad Kissinger]({{ site.baseurl }}/kissinger) Head, Negev Centre for Sustainability, Ben-Gurion University of the Negev
 
- [Itai Kloog]({{ site.baseurl }}/kloog)
+ [Dr. Itai Kloog]({{ site.baseurl }}/kloog) Dept. of Geography and Environmental Development, Ben-Gurion University of the Negev
 
- [Victor Novack]({{ site.baseurl }}/victor)
+ [Prof. Victor Novack]({{ site.baseurl }}/victor) Head, Soroka BGU Medical Research Institute
 
- [Lena Novack]({{ site.baseurl }}/lena)
+ [Dr. Lena Novack]({{ site.baseurl }}/lena) Department of Public Health, Faculty of Health Sciences at Ben-Gurion University of the Negev
 
- [Batia Sarov]({{ site.baseurl }}/sarov)
+ [Prof. Batia Sarov]({{ site.baseurl }}/sarov) Department of Public Health, Faculty of Health Sciences at Ben-Gurion University of the Negev
 
- [Alina Vodonos Zilberg]({{ site.baseurl }}/alina)
+ [Alina Vodonos Zilberg, MPH]({{ site.baseurl }}/alina) Department of Public Health, Faculty of Health Sciences at Ben-Gurion University of the Negev
 
- [Maayan Yitshak-Sade]({{ site.baseurl }}/maayan)
+ [Maayan Yitshak-Sade, MPH]({{ site.baseurl }}/maayan) Chief Scientific Officer, Soroka Clinical Researhh Center
