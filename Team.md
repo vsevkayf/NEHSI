@@ -26,4 +26,4 @@ Our team comprises epidemiologists, physicians, geographers, health policy speci
 
  [Alina Vodonos Zilberg, MPH]({{ site.baseurl }}/alina) Department of Public Health, Faculty of Health Sciences at Ben-Gurion University of the Negev
 
- [Maayan Yitshak-Sade, MPH]({{ site.baseurl }}/maayan) Chief Scientific Officer, Soroka Clinical Researhh Center
+ [Maayan Yitshak-Sade, MPH]({{ site.baseurl }}/maayan) Chief Scientific Officer, Soroka Clinical Researh Center
