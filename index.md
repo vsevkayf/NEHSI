@@ -14,7 +14,7 @@ layout: default
       <li><span>Negev Environment Heath and Sustainability Institute is open! &ndash; <a href="#">read more</a></span></li>
     </div>
     <div>
-      <li><span>Analysis of the air polltuion effects on cardiovascular risk factors. JCEM  &ndash; <a href="#">read more</a></span></li>
+      <li><span>Analysis of the air pollution effects on cardiovascular risk factors. JCEM  &ndash; <a href="#">read more</a></span></li>
     </div>
   </ul>
 </div>	
