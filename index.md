@@ -7,9 +7,9 @@ layout: default
         <ul class="nav nav-tabs">
             {% if page.language == 'he' %}
             <li role="presentation"><a href="/">English</a></li>
-            <li class='active' role="presentation"><a href="/he">עברית</a></li>
+            <li class='active' role="presentation" style="list-style-type: none;"><a href="/he">עברית</a></li>
             {% else %}
-            <li class='active' role="presentation"><a href="/">English</a></li>
+            <li class='active' role="presentation" style="list-style-type: none;"><a href="/">English</a></li>
             <li role="presentation"><a href="/he">עברית</a></li>
             {% endif %}
         </ul>
