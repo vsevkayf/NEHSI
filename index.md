@@ -2,6 +2,20 @@
 layout: default
 ---
 
+<div class="container">
+    <div class="row">
+        <ul class="nav nav-tabs">
+            {% if page.language == 'cn' %}
+            <li role="presentation"><a href="/">English</a></li>
+            <li class='active' role="presentation"><a href="/cn">中文</a></li>
+            {% else %}
+            <li class='active' role="presentation"><a href="/">English</a></li>
+            <li role="presentation"><a href="/cn">中文</a></li>
+            {% endif %}
+            <li class='pull-right' role="presentation"><a href="https://github.com/liaohuqiu/jekyll-multiple-languages-sample/tree/master">GitHub</a></li>
+        </ul>
+    </div>
+</div>
 
 <div class="home">
 	
