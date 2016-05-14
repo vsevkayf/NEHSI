@@ -33,6 +33,3 @@ To the <b>Negev Environmental Health and Sustainability Institute (NEHSI)</b>, a
     <td><img src="http://nehsi.org/images/rsz_1b7beach.png" style="width:100%;height:64%;"><small>© Photos by</small></td>
   </tr>
 </table>
-
-
-<!--<iframe src="http://vsevkayf.github.io/NEHSI/homeani" width="100%" style="height: 64vh;" overflow="auto" scrolling="no" frameBorder="0" allowfullscreen></iframe>-->
