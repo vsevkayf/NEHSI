@@ -6,7 +6,7 @@ permalink: /Team/
 
 Our team comprises epidemiologists, physicians, geographers, health policy specialists from Ben-Gurion University of the Negev, Soroka University Medical Center, and the Ministry of Health. 
 
- [Prof. Dan Blumberg]({{ site.baseurl }}/blumberg) Deputy Vice-President for Research and Development, Ben-Gurion University of the Negev
+ [Prof. Dan Blumberg]({{ site.baseurl }}/blumberg) Vice-President for Research and Development, Ben-Gurion University of the Negev
 
  [Prof. Nadav Davidovitch]({{ site.baseurl }}/nadav) Head, Department of Health Systems Evaluation and Managment, Faculty of Health Sciences, Ben-Gurion University of the Negev
 
