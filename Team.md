@@ -10,6 +10,8 @@ Our team comprises epidemiologists, physicians, geographers, health policy speci
 
  [Prof. Nadav Davidovitch]({{ site.baseurl }}/nadav) Head, Department of Health Systems Managment, Faculty of Health Sciences, Ben-Gurion University of the Negev
 
+ [Dr Ehud Davidson]({{ site.baseurl }}/Ehud) Director General, Soroka University Medical Center, Faculty of Health Sciences, Ben-Gurion University of the Negev
+
  [Dr. Helena Furman]({{ site.baseurl }}/furman)  ept. of Geography and Environmental Development, Ben-Gurion University of the Negev
 
  [Dr. Isabella Karakis]({{ site.baseurl }}/) Head, Department of Environmental Epidemiology, Ministry of Health
