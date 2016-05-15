@@ -10,14 +10,14 @@
                 {% assign domain = site.url %}
               {% endif %}
     {% if steve.subcategories != null %}
-    <li style="text-align:right;"><a href="{{ site.baseurl }}/he{{ steve.href }}" class="page-link">{{ steve.title }}</a>
+    <li style="text-align:right;"><a href="{{ site.baseurl }}{{ steve.href }}" class="page-link">{{ steve.title }}</a>
     <ul class="sub-menu" style="text-align:right;">
     {% for subcategory in steve.subcategories %}
-    <li style="text-align:right;"><a href="{{ site.baseurl }}/he{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+    <li style="text-align:right;"><a href="{{ site.baseurl }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
     {% endfor %}
     </ul>
     {% else %}
-     <li style="text-align:right;"><a href="{{ site.baseurl }}/he{{ steve.href }}" class="page-link">{{ steve.title }}</a>
+     <li style="text-align:right;"><a href="{{ site.baseurl }}{{ steve.href }}" class="page-link">{{ steve.title }}</a>
     {% endif %}
     </li>
     {% endfor %}
