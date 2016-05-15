@@ -7,8 +7,11 @@
     <div class="footer-col-wrapper">
       <div class="footer-col  footer-col-1">
         <ul class="contact-list">
+{% if page.language == 'he' %}
+          <li><strong>{{ site.titleHE }}</strong></li>
+{% else %}
           <li><strong>{{ site.title }}</strong></li>
-
+{% endif %}
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul>
       </div>
