@@ -1,5 +1,6 @@
 ---
 layout: default
+language: he
 ---
 
 <div class="home">
