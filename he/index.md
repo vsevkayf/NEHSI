@@ -11,7 +11,7 @@ language: he
   </div>
   <ul>
     <div>
-      <li><span>Negev Environment Heath and Sustainability Institute is open! &ndash; <a href="#">read more</a></span></li>
+      <li><span>אתר המכון לקיימות, סביבה ובריאות בנגב נפתח רשמית! &ndash; <a href="#">read more</a></span></li>
     </div>
     <div>
       <li><span>Analysis of the air pollution effects on cardiovascular risk factors. JCEM  &ndash; <a href="#">read more</a></span></li>
@@ -22,7 +22,7 @@ language: he
 <h1>Welcome</h1>
 	
 <p>
-To the <b>Negev Environmental Health and Sustainability Institute (NEHSI)</b>, a home of a dynamic, multidisciplinary, independent team working on the interfaces between environment, health and well-being of the Negev citizens.
+ברוכים הבאים לאתר של המכון לקיימות, סביבה ובריאות בנגב Negev Environmental Health and Sustainability Institute (NEHSI), ביתם של צוות רב תחומי ועצמאי שעוסק ביחסי הגומלין בין הסביבה, בריאות ורווחת תושבי הנגב. 
 </p>
 </div>
 
