@@ -11,18 +11,18 @@ language: he
   </div>
   <ul>
     <div>
-      <li><span>אתר המכון לקיימות, סביבה ובריאות בנגב נפתח רשמית! &ndash; <a href="#">read more</a></span></li>
+      <li><span>אתר המכון לקיימות, סביבה ובריאות בנגב נפתח רשמית! &ndash; <a href="#">המשיכו לקרוא</a></span></li>
     </div>
     <div>
-      <li><span>Analysis of the air pollution effects on cardiovascular risk factors. JCEM  &ndash; <a href="#">read more</a></span></li>
+      <li><span>ניתוח של השפעת תופעות זיהום אוויר על גורמי סיכון קרדיווסקולריים. JCEM  &ndash; <a href="#">המשיכו לקרוא</a></span></li>
     </div>
   </ul>
 </div>	
 	
-<h1>Welcome</h1>
+<h1>ברוכים הבאים</h1>
 	
 <p>
-ברוכים הבאים לאתר של המכון לקיימות, סביבה ובריאות בנגב Negev Environmental Health and Sustainability Institute (NEHSI), ביתם של צוות רב תחומי ועצמאי שעוסק ביחסי הגומלין בין הסביבה, בריאות ורווחת תושבי הנגב. 
+לאתר של המכון לקיימות, סביבה ובריאות בנגב  <b>Negev Environmental Health and Sustainability Institute (NEHSI)</b>, ביתם של צוות רב תחומי ועצמאי שעוסק ביחסי הגומלין בין הסביבה, בריאות ורווחת תושבי הנגב. 
 </p>
 </div>
 
