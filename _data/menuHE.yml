@@ -1,10 +1,10 @@
 - title: "אודותינו"
-  href: "/about/"
+  href: "/he/about/"
   subcategories:
     - subtitle: "חזון"
-      subhref: "/about/Vision/"
+      subhref: "/he/about/Vision/"
     - subtitle: "מטרות המרכז"
-      subhref: "/about/Objectives/"
+      subhref: "/he/about/Objectives/"
 
 - title: "שותפים לדרך"
   href: "/MemberResources/"
