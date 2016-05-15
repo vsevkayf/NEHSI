@@ -10,10 +10,10 @@ language: he
     <p>News</p>
   </div>
   <ul>
-    <div>
+    <div dir="rtl">
       <li><span>אתר המכון לקיימות, סביבה ובריאות בנגב נפתח רשמית! &ndash; <a href="#">המשיכו לקרוא</a></span></li>
     </div>
-    <div>
+    <div dir="rtl">
       <li><span>ניתוח של השפעת תופעות זיהום אוויר על גורמי סיכון קרדיווסקולריים. JCEM  &ndash; <a href="#">המשיכו לקרוא</a></span></li>
     </div>
   </ul>
@@ -22,11 +22,11 @@ language: he
 <h1>ברוכים הבאים</h1>
 	
 <p>
-לאתר של המכון לקיימות, סביבה ובריאות בנגב  <b>Negev Environmental Health and Sustainability Institute (NEHSI)</b>, ביתם של צוות רב תחומי ועצמאי שעוסק ביחסי הגומלין בין הסביבה, בריאות ורווחת תושבי הנגב. 
+ברוכים הבאים לאתר של המכון לקיימות, סביבה ובריאות בנגב <span dir="ltr"> Negev Environmental Health and Sustainability Institute (NEHSI), </span> ביתם של צוות רב תחומי ועצמאי שעוסק ביחסי הגומלין בין הסביבה, בריאות ורווחת תושבי הנגב. 
 </p>
 </div>
 
-<table style="width:100%">
+<table style="width:100%" dir="ltr">
   <tr>
     <td><img src="http://nehsi.org/images/rsz_1b7dust.png" style="width:100%;height:64%;"><small>© Photos by Tomer Ofri</small></td>
     <td><img src="http://nehsi.org/images/rsz_1b7ya.png" style="width:100%;height:64%;"><small>© Photos by Gila Brand</small></td>		
