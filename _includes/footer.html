@@ -51,7 +51,11 @@
 
       <div class="footer-col  footer-col-3">
          <p class="text">
-{{ site.description }} 
+              {% if page.language == 'he' %}
+              	{{ site.descriptionHE }}
+              {% else %}
+              	{{ site.description }} 
+              {% endif %}
       </div>
     </div>
 
