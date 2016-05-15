@@ -9,16 +9,16 @@ permalink: /he/blog/
 Example post:
 
 <ul class="listing">
-{% for post in site.posts %}
-  {% if post.categories contains 'blogHE' %}
-    {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
+{% for postHE in site.posts %}
+  {% if postHE.categories contains 'blogHE' %}
+    {% capture y %}{{postHE.date | date:"%Y"}}{% endcapture %}
     {% if year != y %}
       {% assign year = y %}
       <li class="listing-seperator">{{ y }}</li>
     {% endif %}
     <li class="listing-item">
-      <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-      <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+      <time datetime="{{ postHE.date | date:"%Y-%m-%d" }}">{{ postHE.date | date:"%Y-%m-%d" }}</time>
+      <a href="{{ site.baseurl }}{{ post.url }}" title="{{ postHE.title }}">{{ postHE.title }}</a>
     </li>
   {% endif %}
 {% endfor %}
