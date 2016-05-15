@@ -22,14 +22,14 @@ language: he
 <h1>ברוכים הבאים</h1>
 	
 <p>
-ברוכים הבאים לאתר של המכון לקיימות, סביבה ובריאות בנגב <span dir="ltr"> <b>Negev Environmental Health and Sustainability Institute (NEHSI),</b> </span> ביתם של צוות רב תחומי ועצמאי שעוסק ביחסי הגומלין בין הסביבה, בריאות ורווחת תושבי הנגב. 
+ברוכים הבאים לאתר של המכון לקיימות, סביבה ובריאות בנגב <span dir="ltr"> <b>Negev Environmental Health and Sustainability Institute (NEHSI),</b> </span>  ביתם של צוות רב תחומי ועצמאי שעוסק ביחסי הגומלין בין הסביבה, בריאות ורווחת תושבי הנגב. 
 </p>
 </div>
 
-<table style="width:100%" dir="ltr">
+<table style="width:100%">
   <tr>
-    <td><img src="http://nehsi.org/images/rsz_1b7dust.png" style="width:100%;height:64%;"><small>© Photos by Tomer Ofri</small></td>
-    <td><img src="http://nehsi.org/images/rsz_1b7ya.png" style="width:100%;height:64%;"><small>© Photos by Gila Brand</small></td>		
-    <td><img src="http://nehsi.org/images/rsz_1b7beach.png" style="width:100%;height:64%;"><small>© Photos by</small></td>
+    <td><img src="http://nehsi.org/images/rsz_1b7dust.png" style="width:100%;height:64%;"><small>© צולם ע"י תומר עופרי</small></td>
+    <td><img src="http://nehsi.org/images/rsz_1b7ya.png" style="width:100%;height:64%;"><small>© צולם ע"י גילה ברנד</small></td>		
+    <td><img src="http://nehsi.org/images/rsz_1b7beach.png" style="width:100%;height:64%;"><small>© צולם ע"י לא ידוע</small></td>
   </tr>
 </table>
