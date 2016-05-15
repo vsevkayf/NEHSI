@@ -9,7 +9,14 @@
           {% endif %}
 
 
-    <nav class="site-nav">
+
+          {% if page.language == 'he' %}
+              <nav class="site-nav" style="float:right;">
+          {% else %}
+              <nav class="site-nav">
+          {% endif %}
+          
+    
 
       <a href="#" class="menu-icon menu.open">
         <svg viewBox="0 0 18 15">
