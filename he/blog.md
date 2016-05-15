@@ -1,6 +1,7 @@
 ---
 layout: pageHE
 title: בלוג
+language: he
 permalink: /he/blog/
 ---
 
@@ -8,7 +9,7 @@ permalink: /he/blog/
 Example post:
 
 <ul class="listing">
-{% for post in site.posts %}
+{% for post in site.he.posts %}
   {% if post.categories contains 'blogHE' %}
     {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
     {% if year != y %}
