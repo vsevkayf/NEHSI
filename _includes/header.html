@@ -41,7 +41,12 @@
 
      </div> 
      
-     <div class="container">
+     
+          {% if page.language == 'he' %}
+              <div class="container" style="float:right;">
+          {% else %}
+              <div class="container">
+          {% endif %}
     <div class="row">
         <ul class="nav nav-tabs" >
             {% if page.language == 'he' %}
