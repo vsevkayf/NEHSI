@@ -5,7 +5,7 @@ language: he
 
 <div class="home">
 	
-<div class="ticker-container">
+<div class="ticker-container" dir="ltr">
   <div class="ticker-caption">
     <p>News</p>
   </div>
