@@ -22,7 +22,13 @@
 
     <div class="trigger"><h1>Main Navigation</h1>
 
- {% include nav.html  %}
+          {% if page.language == 'he' %}
+              {% include navHE.html  %}
+          {% else %}
+              {% include nav.html  %}
+          {% endif %}
+
+ 
 
 
 
