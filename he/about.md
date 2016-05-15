@@ -2,7 +2,7 @@
 layout: page
 title: אודותינו
 language: he
-permalink: /about/
+permalink: /he/about/
 ---
 
 
