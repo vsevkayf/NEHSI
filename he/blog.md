@@ -9,7 +9,7 @@ permalink: /he/blog/
 Example post:
 
 <ul class="listing">
-{% for post in site.he.posts %}
+{% for post in site.posts %}
   {% if post.categories contains 'blogHE' %}
     {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
     {% if year != y %}
