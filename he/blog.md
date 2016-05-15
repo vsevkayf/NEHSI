@@ -9,7 +9,7 @@ Example post:
 
 <ul class="listing">
 {% for post in site.posts %}
-  {% if post.categories contains 'blog' %}
+  {% if post.categories contains 'blogHE' %}
     {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
     {% if year != y %}
       {% assign year = y %}
