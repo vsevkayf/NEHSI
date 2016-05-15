@@ -7,7 +7,7 @@ language: he
 	
 <div class="ticker-container" dir="ltr">
   <div class="ticker-caption">
-    <p>News</p>
+    <p>חדשות</p>
   </div>
   <ul>
     <div dir="rtl">
