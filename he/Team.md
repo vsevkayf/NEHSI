@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pageHE
 title: צוות
 language: he
 permalink: /he/Team/
