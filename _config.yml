@@ -1,14 +1,8 @@
 # Site settings
-en:
-    title: Negev Environmental Health and Sustainability Institute
-    email: RuthieB@clalit.org.il
-    description: P.O.Box 151 Be'er Sheva, 84101 Israel.
-
-he:
-    title: המכון לקיימות, סביבה ובריאות בנגב
-    email: RuthieB@clalit.org.il
-    description: ת.ד. 151 באר שבע 84101 ישראל
-
+title: נגב
+email: RuthieB@clalit.org.il
+description: > # this means to ignore newlines until "baseurl:"
+  P.O.Box 151 Be'er Sheva, 84101 Israel.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://nehsi.org" # the base hostname & protocol for your site
 twitter_username: 
