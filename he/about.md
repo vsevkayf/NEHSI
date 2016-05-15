@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pageHE
 title: אודותינו
 language: he
 permalink: /he/about/
