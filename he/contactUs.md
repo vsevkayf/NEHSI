@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Contact
-permalink: /contactUs/
+layout: pageHE
+title: צור קשר
+permalink: /he/contactUs/
 ---
 
 <style>
