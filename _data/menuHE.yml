@@ -1,0 +1,48 @@
+- title: "אודותינו"
+  href: "/about/"
+  subcategories:
+    - subtitle: "חזון"
+      subhref: "/about/Vision/"
+    - subtitle: "מטרות המרכז"
+      subhref: "/about/Objectives/"
+
+- title: "שותפים לדרך"
+  href: "/MemberResources/"
+  subcategories:
+    - subtitle: "צוות"
+      subhref: "/Team/"
+    - subtitle: "שיתופי פעולה"
+      subhref: "/Collaborations/"
+
+- title: "פרוייקטים"
+  href: "/Projects/"
+  subcategories:
+    - subtitle: "פרוייקטים פעילים"
+      subhref: "/cprojects/"
+    - subtitle: "פרוייקטים מתוכננים"
+      subhref: "/FutureProjects/"
+
+- title: "פרסומים"
+  href: "/Publications/"
+  subcategories:
+    - subtitle: "מאמרים מדעיים"
+      subhref: "/ScientificPapers/"
+
+- title: "אנחנו והקהילה"
+  href: "/CommunityOutreach/"
+  subcategories:
+    - subtitle: "ניוזלטר"
+      subhref: "/Newsletter/"
+    - subtitle: "מדיה"
+      subhref: "/media/"
+    - subtitle: "בלוג"
+      subhref: "/blog/"
+    - subtitle: "מפות"
+      subhref: "/Maps/"
+    - subtitle: "דוחות סביבתיים"
+      subhref: "/EnvironmentalMonitoringReports/"
+    - subtitle: "אירועים"
+      subhref: "/Events/"
+
+- title: "צור קשר"
+  href: "/contactUs/"
