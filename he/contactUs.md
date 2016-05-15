@@ -1,5 +1,6 @@
 ---
 layout: pageHE
+language: he
 title: צור קשר
 permalink: /he/contactUs/
 ---
