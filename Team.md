@@ -14,7 +14,7 @@ Our team comprises epidemiologists, physicians, geographers, health policy speci
 
  [Dr. Helena Furman]({{ site.baseurl }}/furman)  ept. of Geography and Environmental Development, Ben-Gurion University of the Negev
 
- [Dr. Isabella Karakis]({{ site.baseurl }}/) Head, Department of Environmental Epidemiology, Ministry of Health
+ [Dr. Isabella Karakis]({{ site.baseurl }}/karakis) Head, Department of Environmental Epidemiology, Ministry of Health
 
  [Porf. Itzhka Katra]({{ site.baseurl }}/katra) Dept. of Geography and Environmental Development, Ben-Gurion University of the Negev
 
