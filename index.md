@@ -27,8 +27,8 @@ To the <b>Negev Environmental Health and Sustainability Institute (NEHSI)</b>, a
 
 <table style="width:100%">
   <tr>
-    <td><img src="http://nehsi.org/images/rsz_1b7dust.png" style="width:100%;height:64%;"><small>© Photos by Tomer Ofri</small></td>
-    <td><img src="http://nehsi.org/images/rsz_1b7ya.png" style="width:100%;height:64%;"><small>© Photos by Gila Brand</small></td>		
-    <td><img src="http://nehsi.org/images/rsz_1b7beach.png" style="width:100%;height:64%;"><small>© Photos by</small></td>
+    <td><img src="http://nehsi.org/images/rsz_1b7dust.png" style="width:100%;height:64%;"><small>© Photo by Tomer Ofri</small></td>
+    <td><img src="http://nehsi.org/images/rsz_1b7ya.png" style="width:100%;height:64%;"><small>© Photo by Gila Brand</small></td>		
+    <td><img src="http://nehsi.org/images/rsz_1omriamsalem.png" style="width:100%;height:64%;"><small>© Photo by Omri Amsalem</small></td>
   </tr>
 </table>
