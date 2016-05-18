@@ -16,7 +16,7 @@ Our team comprises epidemiologists, physicians, geographers, health policy speci
 
  [Dr. Isabella Karakis]({{ site.baseurl }}/karakis) Head, Department of Environmental Epidemiology, Ministry of Health
 
- [Porf. Itzhka Katra]({{ site.baseurl }}/katra) Dept. of Geography and Environmental Development, Ben-Gurion University of the Negev
+ [Prof. Itzhka Katra]({{ site.baseurl }}/katra) Dept. of Geography and Environmental Development, Ben-Gurion University of the Negev
 
  [Prof. Meidad Kissinger]({{ site.baseurl }}/kissinger) Head, Negev Centre for Sustainability, Ben-Gurion University of the Negev
 
