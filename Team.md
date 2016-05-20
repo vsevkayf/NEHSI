@@ -18,7 +18,7 @@ Our team comprises epidemiologists, physicians, geographers, health policy speci
 
  [Prof. Itzhka Katra]({{ site.baseurl }}/katra) Dept. of Geography and Environmental Development, Ben-Gurion University of the Negev
 
- [Prof. Meidad Kissinger]({{ site.baseurl }}/kissinger) Head, Negev Centre for Sustainability, Ben-Gurion University of the Negev
+ [Dr. Meidad Kissinger]({{ site.baseurl }}/kissinger) Head, Negev Centre for Sustainability, Ben-Gurion University of the Negev
 
  [Dr. Itai Kloog]({{ site.baseurl }}/kloog) Dept. of Geography and Environmental Development, Ben-Gurion University of the Negev
 
