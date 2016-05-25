@@ -22,7 +22,7 @@ language: he
 <h1>ברוכים הבאים</h1>
 	
 <p>
- לאתר של המכון לקיימות, סביבה ובריאות בנגב    <span dir="ltr"> <b>Negev Environmental Health and Sustainability Institute (NEHSI),</b> </span> &nbsp; ביתם של צוות רב תחומי ועצמאי שעוסק ביחסי הגומלין בין הסביבה, בריאות ורווחת תושבי הנגב. 
+ למכון בריאות הסביבה וקיימות בנגב  <span dir="ltr"> <b>Negev Environmental Health and Sustainability Institute (NEHSI),</b> </span> &nbsp; ביתם של צוות רב תחומי ועצמאי שעוסק ביחסי הגומלין בין הסביבה, בריאות ורווחת תושבי הנגב. 
 </p>
 </div>
 
