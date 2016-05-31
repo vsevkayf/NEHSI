@@ -31,7 +31,7 @@ language: he
     <div>
       <li><span>Study Upholds Link Between Air Pollution and Higher CVD Risk  &ndash; <a href="http://www.doctorslounge.com/index.php/news/pb/63911" target="_blank">read more</a></span></li>
     </div>
-    <div>
+    <div dir="rtl">
       <li><span>מחקר בנגב: זיהום אוויר מגביר את הסיכון למחלות לב  &ndash; <a href="http://www.nrg.co.il/online/13/ART2/781/737.html" target="_blank">read more</a></span></li>
     </div>
     <div>
