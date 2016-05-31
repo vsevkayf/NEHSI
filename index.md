@@ -42,6 +42,10 @@ layout: default
     <div>
       <li><span>More Evidence That Smog a Heart Threat  &ndash; <a href="https://consumer.healthday.com/respiratory-and-allergy-information-2/air-pollution-health-news-540/air-pollution-heart-disease-risk-jcem-release-batch-2689-711202.html" target="_blank">read more</a></span></li>
     </div>
+    <div dir="rtl">
+      <li><span>נמצא קשר בין חשיפה לזיהום אוויר לבין שינויים ברמות סוכר ושומנים בדם, עם סיכון משמעותי יותר בקרב חולי סוכרת
+  &ndash; <a href="http://in.bgu.ac.il/fohs/Pages/news/airpollution_heart.aspx" target="_blank">המשיכו לקרוא</a></span></li>
+    </div>
   </ul>
 </div>	
 	
