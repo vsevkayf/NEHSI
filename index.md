@@ -31,7 +31,7 @@ layout: default
       <li><span>Study Upholds Link Between Air Pollution and Higher CVD Risk  &ndash; <a href="http://www.doctorslounge.com/index.php/news/pb/63911" target="_blank">read more</a></span></li>
     </div>
     <div dir="rtl">
-      <li><span>מחקר בנגב: זיהום אוויר מגביר את הסיכון למחלות לב  &ndash; <a href="http://www.nrg.co.il/online/13/ART2/781/737.html" target="_blank">read more</a></span></li>
+      <li><span>מחקר בנגב: זיהום אוויר מגביר את הסיכון למחלות לב  &ndash; <a href="http://www.nrg.co.il/online/13/ART2/781/737.html" target="_blank">המשיכו לקרוא</a></span></li>
     </div>
     <div>
       <li><span>Air Pollution Exposure May Raise Heart Disease Risk  &ndash; <a href="https://www.endocrine.org/news-room/current-press-releases/air-pollution-exposure-may-raise-heart-disease-risk" target="_blank">read more</a></span></li>
