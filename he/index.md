@@ -13,6 +13,13 @@ language: he
     <div dir="rtl">
       <li><span>אתר המכון לקיימות, סביבה ובריאות בנגב נפתח רשמית! &ndash; <a href="#">המשיכו לקרוא</a></span></li>
     </div>
+    
+        <div dir="rtl">
+      <li><span> בגלל זיהום האוויר – ידעות הנגב
+ &ndash; <<a href="http://sorokacrc.org/pages/pdf-news/גלוקוז וזיהום אויר- ידיעות הנגב.pdf" target="_blank">  המשיכו לקרוא</a></span></li>
+    </div>
+
+    
     <div dir="rtl">
       <li><span>ניתוח של השפעת תופעות זיהום אוויר על גורמי סיכון קרדיווסקולריים. JCEM  &ndash; <a href="#">המשיכו לקרוא</a></span></li>
     </div>
