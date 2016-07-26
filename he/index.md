@@ -47,6 +47,16 @@ language: he
       <li><span>נמצא קשר בין חשיפה לזיהום אוויר לבין שינויים ברמות סוכר ושומנים בדם, עם סיכון משמעותי יותר בקרב חולי סוכרת
   &ndash; <a href="http://in.bgu.ac.il/fohs/Pages/news/airpollution_heart.aspx" target="_blank">המשיכו לקרוא</a></span></li>
     </div>
+        <div dir="rtl">
+      <li><span>בדרך אל הטבע עם מיכאל מירו 
+&ndash; <a href="http://www.iba.org.il/program.aspx?scode=1927712" target="_blank">צפו בתכנית</a></span></li>
+    </div>
+
+    <div dir="rtl">
+      <li><span>גרים בנגב – ונמצאים בסיכון למחלה שעלולה לסכן חיים
+ &ndash; <a href="http://www.haaretz.co.il/news/health/research/.premium-1.2998064" target="_blank">המשיכו לקרוא</a></span></li>
+    </div>
+
   </ul>
 </div>	
 	
