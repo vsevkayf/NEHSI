@@ -12,10 +12,7 @@ layout: default
     <div>
       <li><span>Negev Environment Heath and Sustainability Institute is open! &ndash; <a href="#">read more</a></span></li>
     </div>
-        <div dir="rtl">
-      <li><span> בגלל זיהום האוויר – ידעות הנגב
- &ndash; <<a href="http://sorokacrc.org/pages/pdf-news/גלוקוז וזיהום אויר- ידיעות הנגב.pdf" target="_blank">  המשיכו לקרוא</a></span></li>
-    </div>
+
 
     <div>
       <li><span>Analysis of the air pollution effects on cardiovascular risk factors. JCEM  &ndash; <a href="#">read more</a></span></li>
