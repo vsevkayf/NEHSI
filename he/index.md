@@ -14,10 +14,11 @@ language: he
       <li><span>אתר המכון לקיימות, סביבה ובריאות בנגב נפתח רשמית! &ndash; <a href="#">המשיכו לקרוא</a></span></li>
     </div>
     
-        <div dir="rtl">
+    <div dir="rtl">
       <li><span> בגלל זיהום האוויר – ידעות הנגב
- &ndash; <<a href="http://sorokacrc.org/pages/pdf-news/גלוקוז וזיהום אויר- ידיעות הנגב.pdf" target="_blank">  המשיכו לקרוא</a></span></li>
+ &ndash; <a href="http://sorokacrc.org/pages/pdf-news/גלוקוז וזיהום אויר- ידיעות הנגב.pdf" target="_blank">  המשיכו לקרוא</a></span></li>
     </div>
+
 
     
     <div dir="rtl">
